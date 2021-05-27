@@ -1,0 +1,16 @@
+C:\Users\User1\Desktop\exercicos_26\MaquinaCafe\bin\Debug\net5.0\MaquinaCafe.exe
+C:\Users\User1\Desktop\exercicos_26\MaquinaCafe\bin\Debug\net5.0\MaquinaCafe.deps.json
+C:\Users\User1\Desktop\exercicos_26\MaquinaCafe\bin\Debug\net5.0\MaquinaCafe.runtimeconfig.json
+C:\Users\User1\Desktop\exercicos_26\MaquinaCafe\bin\Debug\net5.0\MaquinaCafe.runtimeconfig.dev.json
+C:\Users\User1\Desktop\exercicos_26\MaquinaCafe\bin\Debug\net5.0\MaquinaCafe.dll
+C:\Users\User1\Desktop\exercicos_26\MaquinaCafe\bin\Debug\net5.0\ref\MaquinaCafe.dll
+C:\Users\User1\Desktop\exercicos_26\MaquinaCafe\bin\Debug\net5.0\MaquinaCafe.pdb
+C:\Users\User1\Desktop\exercicos_26\MaquinaCafe\obj\Debug\net5.0\MaquinaCafe.csprojAssemblyReference.cache
+C:\Users\User1\Desktop\exercicos_26\MaquinaCafe\obj\Debug\net5.0\MaquinaCafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User1\Desktop\exercicos_26\MaquinaCafe\obj\Debug\net5.0\MaquinaCafe.AssemblyInfoInputs.cache
+C:\Users\User1\Desktop\exercicos_26\MaquinaCafe\obj\Debug\net5.0\MaquinaCafe.AssemblyInfo.cs
+C:\Users\User1\Desktop\exercicos_26\MaquinaCafe\obj\Debug\net5.0\MaquinaCafe.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\exercicos_26\MaquinaCafe\obj\Debug\net5.0\MaquinaCafe.dll
+C:\Users\User1\Desktop\exercicos_26\MaquinaCafe\obj\Debug\net5.0\ref\MaquinaCafe.dll
+C:\Users\User1\Desktop\exercicos_26\MaquinaCafe\obj\Debug\net5.0\MaquinaCafe.pdb
+C:\Users\User1\Desktop\exercicos_26\MaquinaCafe\obj\Debug\net5.0\MaquinaCafe.genruntimeconfig.cache

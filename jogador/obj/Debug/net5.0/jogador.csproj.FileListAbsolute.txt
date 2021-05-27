@@ -1,0 +1,16 @@
+C:\Users\User1\Desktop\exercicos_26\jogador\bin\Debug\net5.0\jogador.exe
+C:\Users\User1\Desktop\exercicos_26\jogador\bin\Debug\net5.0\jogador.deps.json
+C:\Users\User1\Desktop\exercicos_26\jogador\bin\Debug\net5.0\jogador.runtimeconfig.json
+C:\Users\User1\Desktop\exercicos_26\jogador\bin\Debug\net5.0\jogador.runtimeconfig.dev.json
+C:\Users\User1\Desktop\exercicos_26\jogador\bin\Debug\net5.0\jogador.dll
+C:\Users\User1\Desktop\exercicos_26\jogador\bin\Debug\net5.0\ref\jogador.dll
+C:\Users\User1\Desktop\exercicos_26\jogador\bin\Debug\net5.0\jogador.pdb
+C:\Users\User1\Desktop\exercicos_26\jogador\obj\Debug\net5.0\jogador.csprojAssemblyReference.cache
+C:\Users\User1\Desktop\exercicos_26\jogador\obj\Debug\net5.0\jogador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User1\Desktop\exercicos_26\jogador\obj\Debug\net5.0\jogador.AssemblyInfoInputs.cache
+C:\Users\User1\Desktop\exercicos_26\jogador\obj\Debug\net5.0\jogador.AssemblyInfo.cs
+C:\Users\User1\Desktop\exercicos_26\jogador\obj\Debug\net5.0\jogador.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\exercicos_26\jogador\obj\Debug\net5.0\jogador.dll
+C:\Users\User1\Desktop\exercicos_26\jogador\obj\Debug\net5.0\ref\jogador.dll
+C:\Users\User1\Desktop\exercicos_26\jogador\obj\Debug\net5.0\jogador.pdb
+C:\Users\User1\Desktop\exercicos_26\jogador\obj\Debug\net5.0\jogador.genruntimeconfig.cache

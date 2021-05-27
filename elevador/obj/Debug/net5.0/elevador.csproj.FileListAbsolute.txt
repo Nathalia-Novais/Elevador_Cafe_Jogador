@@ -1,0 +1,16 @@
+C:\Users\User1\Desktop\exercicos_26\elevador\bin\Debug\net5.0\elevador.exe
+C:\Users\User1\Desktop\exercicos_26\elevador\bin\Debug\net5.0\elevador.deps.json
+C:\Users\User1\Desktop\exercicos_26\elevador\bin\Debug\net5.0\elevador.runtimeconfig.json
+C:\Users\User1\Desktop\exercicos_26\elevador\bin\Debug\net5.0\elevador.runtimeconfig.dev.json
+C:\Users\User1\Desktop\exercicos_26\elevador\bin\Debug\net5.0\elevador.dll
+C:\Users\User1\Desktop\exercicos_26\elevador\bin\Debug\net5.0\ref\elevador.dll
+C:\Users\User1\Desktop\exercicos_26\elevador\bin\Debug\net5.0\elevador.pdb
+C:\Users\User1\Desktop\exercicos_26\elevador\obj\Debug\net5.0\elevador.csprojAssemblyReference.cache
+C:\Users\User1\Desktop\exercicos_26\elevador\obj\Debug\net5.0\elevador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User1\Desktop\exercicos_26\elevador\obj\Debug\net5.0\elevador.AssemblyInfoInputs.cache
+C:\Users\User1\Desktop\exercicos_26\elevador\obj\Debug\net5.0\elevador.AssemblyInfo.cs
+C:\Users\User1\Desktop\exercicos_26\elevador\obj\Debug\net5.0\elevador.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\exercicos_26\elevador\obj\Debug\net5.0\elevador.dll
+C:\Users\User1\Desktop\exercicos_26\elevador\obj\Debug\net5.0\ref\elevador.dll
+C:\Users\User1\Desktop\exercicos_26\elevador\obj\Debug\net5.0\elevador.pdb
+C:\Users\User1\Desktop\exercicos_26\elevador\obj\Debug\net5.0\elevador.genruntimeconfig.cache
